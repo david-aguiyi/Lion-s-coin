@@ -481,8 +481,9 @@ a{
 }
 
 button.buy {
-	width: 200px;
+	width: 300px;
 	margin-top: 1rem;
+	font-weight: 800;
 	background-color: #f4c861;
 }
 
