@@ -95,8 +95,8 @@ header {
 
 button {
 	font-weight: 700;
-	background-color: #f4c861;
-	color: #0D2515;
+	background-color: #dedad2;
+	color: #1c1c0f;
 	cursor: pointer;
 	display: inline-flex;
 	align-items: center;
@@ -161,7 +161,7 @@ button:active {
 
 .section-12 {
 	display: flex;
-	background-color: #57b759;
+	background-color: #3d9a3e;
 	justify-content: center;
 	align-items: center;
 }
@@ -343,7 +343,7 @@ img#comm {
 	flex-direction: column;
 	/* transition: 0.23s ease-in-out; */
 	cursor: pointer;
-	color: #f4c861;
+	color: #1a1918;
 	font-weight: 900;
 }
 
@@ -375,7 +375,7 @@ img#comm {
 .check ul li p {
 	margin-top: 5px;
 	font-weight: 700;
-	border-bottom: 1.5px solid #57b759;
+	border-bottom: 1.5px solid #54a356;
 }
 
 .checksmart ul li p {
@@ -463,7 +463,7 @@ a{
 
 .fcard2 {
 	padding: 30px;
-	background-color: #57b759;
+	background-color: #bfd2c0;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -568,7 +568,7 @@ button.buy {
 	margin-top: 100px;
 }
 .sect-cont {
-	background-color: #57b759;
+	background-color: #eaf0ea;
 	border: 2px solid #f4c861;
 	padding: 20px;
 	margin: 30px;
@@ -614,7 +614,7 @@ footer p {
 }
 .fcard4 {
 	padding: 30px;
-	background-color: #57b759;
+	background-color: #bfd2c0;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -838,7 +838,7 @@ footer p {
 	position: absolute;
 	width: 20%;
 	height: 20%;
-	border: 4px solid #57b759;
+	border: 4px solid #f0f4f0;
 }
 
 .section-3::before {
@@ -1198,7 +1198,7 @@ img.right-img {
 		justify-content: center;
 	}
 	.sect-cont {
-		background-color: #57b759;
+		background-color: #bfd2c0;
 		border: 2px solid #0D2515;
 		padding: 40px;
 		margin: 30px;
@@ -1233,12 +1233,12 @@ img.right-img {
 @media (max-width: 500px) {
 
 	body{
-background-color: #0D2515;
-color: white;
+background-color: #f8f9f8;
+color: rgb(22, 18, 18);
 	}
 
 	*{
-		color: white;
+		color: rgb(19, 17, 17);
 	}
 
 	.head-but {
